@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/47919053/72225307-08518b00-357c-11ea-9be3-4826a1ed687d.png)
 
 ## Timeframe
-1 days
+1 day
 
 ## Technologies used
 

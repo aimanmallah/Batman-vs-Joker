@@ -26,10 +26,6 @@ a 4 and a 5, the player will take (4+5)-(3+2) = 4 damage.
 5. If The Player loses all their health the game stops and “Game Over” is displayed in large red text.
 6. If the monster loses all their health the game ends and “You Win” is displayed in large green text.
 
-### Wins
-
-A big win for me was practicing time functions such as setIntervals. An example of using this in the game was adding the explosion image to a div when a collision happens.
-
 ## Future features
 
-In the future, I would like to create a scoreboard. I would also like to add in harder levels and more randomly generating alien invaders.
+In the future, I would like to add in a character selection section at the start. 

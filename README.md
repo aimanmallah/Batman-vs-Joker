@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/47919053/72225307-08518b00-357c-11ea-9be3-4826a1ed687d.png)
 
-### Timeframe
+## Timeframe
 1 days
 
 ## Technologies used
@@ -13,7 +13,7 @@
 * React
 * Redux
 
-### Game Specification
+## Game Specification
 In this game you (The Player) are fighting some kind of monster (your choice). Both characters begin with 100
 health points. The two health values must be represented somehow on the screen.
 The UI consists of an “Attack!” button. When you click this, the following sequence should happen:

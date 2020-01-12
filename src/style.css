@@ -1,0 +1,104 @@
+.html, body {
+    background-image: url('./images/gotham.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background {
+    background-color: rgba(1,1,1,0.5);
+    height: 98vh;
+}
+
+
+/* NavBar */
+.title {
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    border-bottom: 3px solid #f8f4f4;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo {
+    max-height: 75px;
+}
+
+
+/* GameScreen */
+.container {
+    display: grid;
+    grid-template-columns: auto 400px auto;
+}
+
+.container > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-height: 400px;
+    margin-top: 20px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    border: solid white 1px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+
+.diceContainer {
+    display: flex;
+}
+
+.diceContainer > div {
+    margin: 10px;
+}
+
+h2 {
+    color: white;
+}
+
+.loser {
+    color: red;
+}
+
+.winner {
+    color: green;
+}
+
+
+/* HealthBar */
+.maxHealth {
+    border: solid white 1px;
+    width: 500px;
+    height: 40px;
+    background-color: red;
+}
+
+.currentHealth {
+    width: 100%;
+    height: 40px;
+    background-color: green;
+}
+
+.healthLabel {
+    color: white;
+    font-weight: 900;
+}
+
+
+/* Dice */
+.Dice {
+    max-height: 75px;
+}

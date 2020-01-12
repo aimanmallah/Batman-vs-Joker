@@ -14,7 +14,7 @@
 * Redux
 
 ## Game Specification
-In this game you (The Player) are fighting some kind of monster (your choice). Both characters begin with 100
+In this game you (Batman) are fighting some kind of monster (Joker). Both characters begin with 100
 health points. The two health values must be represented somehow on the screen.
 The UI consists of an “Attack!” button. When you click this, the following sequence should happen:
 1. Two dice are rolled for The Player
